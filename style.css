@@ -8,8 +8,7 @@
   font-family: arial;
   font-size: 24px;
   margin: 25px;
-  width: 350px;
-  height: 200px;
+  display:flex;
   outline: dashed 1px black;
 }
 
