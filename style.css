@@ -5,10 +5,10 @@
 
 
 .outline {
+  display:flex;
   font-family: arial;
   font-size: 24px;
   margin: 25px;
-  display:flex;
   outline: dashed 1px black;
 }
 
