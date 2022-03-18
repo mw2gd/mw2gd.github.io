@@ -1,5 +1,6 @@
 .basic-container {
   display: flex;
+  justify-content: center;
   font-family: arial;
   font-size: 24px;
   margin: 25px;
