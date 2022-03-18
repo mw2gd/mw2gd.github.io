@@ -1,3 +1,9 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+
 .outline {
   font-family: arial;
   font-size: 24px;
